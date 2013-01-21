@@ -1,4 +1,7 @@
 crazy idea
 more
 this is hurt
+<<<<<<< HEAD
  in master, more work
+=======
+>>>>>>> trouble
